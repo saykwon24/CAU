@@ -1,0 +1,842 @@
+[
+    {
+        "item_id": "001",
+        "product_name": "Smartphone",
+        "quantity": 97,
+        "price": 534.0,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "002",
+        "product_name": "Printer",
+        "quantity": 47,
+        "price": 874.27,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "003",
+        "product_name": "Mouse",
+        "quantity": 89,
+        "price": 432.86,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "004",
+        "product_name": "Webcam",
+        "quantity": 71,
+        "price": 195.34,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "005",
+        "product_name": "Headphones",
+        "quantity": 11,
+        "price": 817.71,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "006",
+        "product_name": "Mouse",
+        "quantity": 85,
+        "price": 934.95,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "007",
+        "product_name": "Monitor",
+        "quantity": 18,
+        "price": 1002.88,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "008",
+        "product_name": "Headphones",
+        "quantity": 47,
+        "price": 953.4,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "009",
+        "product_name": "Webcam",
+        "quantity": 25,
+        "price": 683.44,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "010",
+        "product_name": "Headphones",
+        "quantity": 95,
+        "price": 1315.1,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "011",
+        "product_name": "Headphones",
+        "quantity": 23,
+        "price": 1340.56,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "012",
+        "product_name": "Laptop",
+        "quantity": 21,
+        "price": 1320.19,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "013",
+        "product_name": "Mouse",
+        "quantity": 22,
+        "price": 378.97,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "014",
+        "product_name": "Keyboard",
+        "quantity": 20,
+        "price": 586.22,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "015",
+        "product_name": "Mouse",
+        "quantity": 64,
+        "price": 1172.88,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "016",
+        "product_name": "Monitor",
+        "quantity": 17,
+        "price": 817.49,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "017",
+        "product_name": "Smart Watch",
+        "quantity": 30,
+        "price": 1067.63,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "018",
+        "product_name": "Monitor",
+        "quantity": 70,
+        "price": 1088.85,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "019",
+        "product_name": "Smart Watch",
+        "quantity": 47,
+        "price": 176.07,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "020",
+        "product_name": "Smart Watch",
+        "quantity": 25,
+        "price": 1225.91,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "021",
+        "product_name": "Keyboard",
+        "quantity": 33,
+        "price": 1190.13,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "022",
+        "product_name": "Webcam",
+        "quantity": 79,
+        "price": 1196.69,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "023",
+        "product_name": "Laptop",
+        "quantity": 36,
+        "price": 1003.88,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "024",
+        "product_name": "Printer",
+        "quantity": 55,
+        "price": 747.94,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "025",
+        "product_name": "Headphones",
+        "quantity": 59,
+        "price": 1434.24,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "026",
+        "product_name": "Tablet",
+        "quantity": 56,
+        "price": 1182.02,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "027",
+        "product_name": "Tablet",
+        "quantity": 86,
+        "price": 1299.34,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "028",
+        "product_name": "Webcam",
+        "quantity": 48,
+        "price": 1270.44,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "029",
+        "product_name": "Tablet",
+        "quantity": 44,
+        "price": 104.14,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "030",
+        "product_name": "Headphones",
+        "quantity": 73,
+        "price": 993.0,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "031",
+        "product_name": "Headphones",
+        "quantity": 78,
+        "price": 1347.78,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "032",
+        "product_name": "Laptop",
+        "quantity": 19,
+        "price": 216.3,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "033",
+        "product_name": "Webcam",
+        "quantity": 39,
+        "price": 874.25,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "034",
+        "product_name": "Webcam",
+        "quantity": 98,
+        "price": 919.67,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "035",
+        "product_name": "Mouse",
+        "quantity": 64,
+        "price": 1180.32,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "036",
+        "product_name": "Headphones",
+        "quantity": 26,
+        "price": 616.61,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "037",
+        "product_name": "Laptop",
+        "quantity": 99,
+        "price": 971.41,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "038",
+        "product_name": "Smartphone",
+        "quantity": 38,
+        "price": 191.53,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "039",
+        "product_name": "Printer",
+        "quantity": 81,
+        "price": 1455.2,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "040",
+        "product_name": "Smartphone",
+        "quantity": 18,
+        "price": 1097.63,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "041",
+        "product_name": "Webcam",
+        "quantity": 94,
+        "price": 1136.42,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "042",
+        "product_name": "Laptop",
+        "quantity": 94,
+        "price": 670.52,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "043",
+        "product_name": "Smartphone",
+        "quantity": 48,
+        "price": 638.84,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "044",
+        "product_name": "Printer",
+        "quantity": 95,
+        "price": 128.48,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "045",
+        "product_name": "Laptop",
+        "quantity": 42,
+        "price": 1486.61,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "046",
+        "product_name": "Mouse",
+        "quantity": 53,
+        "price": 756.35,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "047",
+        "product_name": "Headphones",
+        "quantity": 81,
+        "price": 900.19,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "048",
+        "product_name": "Webcam",
+        "quantity": 43,
+        "price": 795.59,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "049",
+        "product_name": "Keyboard",
+        "quantity": 41,
+        "price": 555.37,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "050",
+        "product_name": "Smart Watch",
+        "quantity": 44,
+        "price": 910.13,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "051",
+        "product_name": "Monitor",
+        "quantity": 24,
+        "price": 757.94,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "052",
+        "product_name": "Keyboard",
+        "quantity": 90,
+        "price": 303.23,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "053",
+        "product_name": "Webcam",
+        "quantity": 62,
+        "price": 1080.37,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "054",
+        "product_name": "Tablet",
+        "quantity": 17,
+        "price": 396.34,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "055",
+        "product_name": "Keyboard",
+        "quantity": 38,
+        "price": 1235.61,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "056",
+        "product_name": "Keyboard",
+        "quantity": 19,
+        "price": 70.29,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "057",
+        "product_name": "Mouse",
+        "quantity": 47,
+        "price": 1155.85,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "058",
+        "product_name": "Tablet",
+        "quantity": 22,
+        "price": 808.31,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "059",
+        "product_name": "Monitor",
+        "quantity": 42,
+        "price": 386.26,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "060",
+        "product_name": "Tablet",
+        "quantity": 31,
+        "price": 589.02,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "061",
+        "product_name": "Headphones",
+        "quantity": 10,
+        "price": 571.71,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "062",
+        "product_name": "Smart Watch",
+        "quantity": 93,
+        "price": 81.85,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "063",
+        "product_name": "Printer",
+        "quantity": 14,
+        "price": 983.17,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "064",
+        "product_name": "Webcam",
+        "quantity": 12,
+        "price": 1467.89,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "065",
+        "product_name": "Monitor",
+        "quantity": 82,
+        "price": 495.44,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "066",
+        "product_name": "Smart Watch",
+        "quantity": 95,
+        "price": 729.67,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "067",
+        "product_name": "Headphones",
+        "quantity": 58,
+        "price": 1402.17,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "068",
+        "product_name": "Mouse",
+        "quantity": 49,
+        "price": 1492.42,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "069",
+        "product_name": "Webcam",
+        "quantity": 93,
+        "price": 1031.53,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "070",
+        "product_name": "Smartphone",
+        "quantity": 82,
+        "price": 1488.26,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "071",
+        "product_name": "Monitor",
+        "quantity": 26,
+        "price": 401.21,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "072",
+        "product_name": "Printer",
+        "quantity": 39,
+        "price": 126.97,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "073",
+        "product_name": "Printer",
+        "quantity": 52,
+        "price": 1134.23,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "074",
+        "product_name": "Printer",
+        "quantity": 60,
+        "price": 956.71,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "075",
+        "product_name": "Printer",
+        "quantity": 39,
+        "price": 712.78,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "076",
+        "product_name": "Smartphone",
+        "quantity": 54,
+        "price": 1237.04,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "077",
+        "product_name": "Webcam",
+        "quantity": 21,
+        "price": 1038.09,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "078",
+        "product_name": "Monitor",
+        "quantity": 30,
+        "price": 756.73,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "079",
+        "product_name": "Mouse",
+        "quantity": 71,
+        "price": 972.47,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "080",
+        "product_name": "Printer",
+        "quantity": 84,
+        "price": 104.08,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "081",
+        "product_name": "Keyboard",
+        "quantity": 71,
+        "price": 505.64,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "082",
+        "product_name": "Headphones",
+        "quantity": 45,
+        "price": 591.39,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "083",
+        "product_name": "Monitor",
+        "quantity": 97,
+        "price": 1439.4,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "084",
+        "product_name": "Mouse",
+        "quantity": 53,
+        "price": 870.33,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "085",
+        "product_name": "Keyboard",
+        "quantity": 13,
+        "price": 686.59,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "086",
+        "product_name": "Mouse",
+        "quantity": 95,
+        "price": 551.13,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "087",
+        "product_name": "Tablet",
+        "quantity": 35,
+        "price": 1055.15,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "088",
+        "product_name": "Laptop",
+        "quantity": 20,
+        "price": 1035.73,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "089",
+        "product_name": "Keyboard",
+        "quantity": 60,
+        "price": 1171.2,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "090",
+        "product_name": "Keyboard",
+        "quantity": 82,
+        "price": 422.53,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "091",
+        "product_name": "Monitor",
+        "quantity": 94,
+        "price": 612.53,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "092",
+        "product_name": "Mouse",
+        "quantity": 77,
+        "price": 996.15,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "093",
+        "product_name": "Laptop",
+        "quantity": 89,
+        "price": 268.64,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "094",
+        "product_name": "Smart Watch",
+        "quantity": 96,
+        "price": 272.29,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "095",
+        "product_name": "Mouse",
+        "quantity": 60,
+        "price": 1002.15,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "096",
+        "product_name": "Tablet",
+        "quantity": 73,
+        "price": 665.67,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "097",
+        "product_name": "Webcam",
+        "quantity": 76,
+        "price": 1209.09,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "098",
+        "product_name": "Mouse",
+        "quantity": 31,
+        "price": 1082.73,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "099",
+        "product_name": "Tablet",
+        "quantity": 46,
+        "price": 382.4,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "100",
+        "product_name": "Mouse",
+        "quantity": 21,
+        "price": 388.09,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "101",
+        "product_name": "Monitor",
+        "quantity": 95,
+        "price": 341.22,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "102",
+        "product_name": "Headphones",
+        "quantity": 57,
+        "price": 852.88,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "103",
+        "product_name": "Smartphone",
+        "quantity": 40,
+        "price": 1375.94,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "104",
+        "product_name": "Headphones",
+        "quantity": 81,
+        "price": 90.68,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "105",
+        "product_name": "Smartphone",
+        "quantity": 6,
+        "price": 218.03,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "106",
+        "product_name": "Laptop",
+        "quantity": 57,
+        "price": 1115.26,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "107",
+        "product_name": "Webcam",
+        "quantity": 52,
+        "price": 728.36,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "108",
+        "product_name": "Smart Watch",
+        "quantity": 75,
+        "price": 598.94,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "109",
+        "product_name": "Mouse",
+        "quantity": 93,
+        "price": 995.64,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "110",
+        "product_name": "Tablet",
+        "quantity": 99,
+        "price": 1137.05,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "111",
+        "product_name": "Webcam",
+        "quantity": 11,
+        "price": 412.21,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "112",
+        "product_name": "Webcam",
+        "quantity": 10,
+        "price": 1151.57,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "113",
+        "product_name": "Headphones",
+        "quantity": 81,
+        "price": 1344.97,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "114",
+        "product_name": "Laptop",
+        "quantity": 75,
+        "price": 1215.36,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "115",
+        "product_name": "Smart Watch",
+        "quantity": 27,
+        "price": 232.82,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "116",
+        "product_name": "Headphones",
+        "quantity": 6,
+        "price": 488.41,
+        "demand_label": "low"
+    },
+    {
+        "item_id": "117",
+        "product_name": "Webcam",
+        "quantity": 81,
+        "price": 1104.6,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "118",
+        "product_name": "Smartphone",
+        "quantity": 14,
+        "price": 818.08,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "119",
+        "product_name": "Tablet",
+        "quantity": 9,
+        "price": 137.21,
+        "demand_label": "high"
+    },
+    {
+        "item_id": "120",
+        "product_name": "Keyboard",
+        "quantity": 27,
+        "price": 635.8,
+        "demand_label": "low"
+    }
+]
